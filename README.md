@@ -24,4 +24,17 @@ $ git remote rm origin
 $ git remote add origin git@github.com:(githubのid)/(リポジトリ).git
 $ git push -u origin master
 ```
+***
+chrome & firefox 開発ツール `Ctrl + Shift + I`
 
+Internet Explorer 開発者ツール　`F12`
+
+- [登録静的](http://railstutorial.jp/chapters/filling-in-the-layout?version=4.0#sec-user_signup)
+
+- [登録動的](http://railstutorial.jp/chapters/sign-up?version=4.0#top)
+
+
+
+- [has_many](http://railstutorial.jp/chapters/a-demo-app?version=4.0#sec-demo_user_has_many_microposts)
+
+-
