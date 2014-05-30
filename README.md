@@ -38,3 +38,5 @@ Internet Explorer 開発者ツール　`F12`
 - [has_many](http://railstutorial.jp/chapters/a-demo-app?version=4.0#sec-demo_user_has_many_microposts)
 
 - [postgresql文書](http://www.postgresql.jp/document/9.2/html/index.html)
+
+- [rails console コマンド](http://railsdoc.com/rails)
