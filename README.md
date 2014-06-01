@@ -27,7 +27,7 @@ $ git push -u origin master
 
 
 - `$ git add`したときにこんながでたら(CRLF:改行コードの一種らしい。)
- - warning: LF will be replaced by CRLF in /~~/~~.rb. The file will have its original line endings in your working directory.
+ - `warning: LF will be replaced by CRLF in ~.rb The file will have its original line endings in your working directory.`
 
 `$ git config --global core.autoCRLF false`
 
